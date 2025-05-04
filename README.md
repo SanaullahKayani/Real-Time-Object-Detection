@@ -66,10 +66,12 @@ To run this project, follow the steps below:
    pip install mediapipe opencv-python numpy tensorflow
 
 2. Run the code using:
-
- ```bash
+   ```bash
    python object_recognition.py
+   
+4. Monitor the model's object detection in the webcam feed.
+5. Press 'Esc' to terminate the system.
 
-3. Monitor the model's object detection in the webcam feed.
-4. Press 'Esc' to terminate the system.
+
+
   
